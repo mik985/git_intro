@@ -2,3 +2,5 @@
 README.md
 .flake8
 .gitignore
+.pre-commit-config.yam
+requirements.txt
